@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://golffies.github.io/softq/sitemap.xml
